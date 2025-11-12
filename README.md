@@ -4,7 +4,8 @@
 ## Описание проектов:
 |        №      | Ссылка            | Краткое описание                                                 | Применяемые инструменты | 
 |---------------|-------------------|------------------------------------------------------------------|-------------------------|
-|1              |[Анализ клиентской базы](https://github.com/Vasiliy-124/Data-Analysis-Projects/tree/main/AB-test)| Сегментация клиентов и анализ поведенческих паттернов на основе синтетических данных e-commerce для оптимизации маркетинговых стратегий|"pandas", "matplotlib.pyplot", "numpy" , "seaborn", "scikit-learn"| 
+|1              |[Анализ клиентской базы](https://github.com/Vasiliy-124/Data-Analysis-Projects/tree/main/e-commerernce)| Сегментация клиентов и анализ поведенческих паттернов на основе синтетических данных e-commerce для оптимизации маркетинговых стратегий|"pandas", "numpy", "matplotlib.pyplot", "seaborn", "scikit-learn"| 
+|2              |[Статистический анализ A/B теста](https://github.com/Vasiliy-124/Data-Analysis-Projects/tree/main/AB-test)| Статистический анализ A/B теста трёх промо-кампаний для выявления оптимальной стратегии увеличения продаж нового продукта|"pandas", "numpy", "matplotlib.pyplot", "seaborn", "SciPy", "Statsmodels"|
 
 
 ## Инструменты:
