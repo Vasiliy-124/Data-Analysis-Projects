@@ -42,7 +42,7 @@
 
 ### 🏷️ Анализ Multi-Label
 
-![Multi-label Distribution](multilabel_distribution.png)
+![Multi-label Distribution](images/multilabel_distribution.png)
 
 | Метки на комментарий | Количество | Процент |
 |---------------------|-----------|---------|
