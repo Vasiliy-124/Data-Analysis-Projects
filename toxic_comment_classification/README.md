@@ -83,7 +83,7 @@ LogisticRegression:
 
 **Результаты на валидации:**
 
-![LR ROC Scores](lr_roc_scores.png)
+![LR ROC Scores](images/lr_roc_scores.png)
 
 | Метрика | Значение |
 |---------|----------|
@@ -149,7 +149,7 @@ Early stopping: patience=3 epochs
 
 **Процесс обучения:**
 
-![CNN Training Curves](cnn_training_curves.png)
+![CNN Training Curves](images/cnn_training_curves.png)
 
 | Метрика | Значение |
 |---------|----------|
@@ -160,7 +160,7 @@ Early stopping: patience=3 epochs
 
 **Результаты на валидации:**
 
-![CNN ROC Scores](cnn_roc_scores.png)
+![CNN ROC Scores](images/cnn_roc_scores.png)
 
 | Метрика | Значение |
 |---------|----------|
@@ -189,7 +189,7 @@ Early stopping: patience=3 epochs
 
 ## 📊 Сравнение Моделей
 
-![Models Comparison](models_comparison.png)
+![Models Comparison](images/models_comparison.png)
 
 | Метрика | Logistic Regression | CNN |
 |---------|-------------------|-----|
