@@ -23,7 +23,7 @@
 
 ### 📊 Распределение классов в датасете
 
-![Class Distribution](class_distribution.png)
+![Class Distribution](images/class_distribution.png)
 
 **Статистика:**
 - Всего комментариев в тренировочном наборе: **159,571**
