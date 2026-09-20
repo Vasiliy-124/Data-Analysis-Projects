@@ -447,10 +447,6 @@ max_length: 100-300              # Больше = больше контекст�
 
 ## 📚 Ссылки
 
-- [TF-IDF - Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
-- [Logistic Regression - Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-- [CNN for NLP - Yoon Kim (2014)](https://arxiv.org/abs/1408.5882)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [Kaggle Competition](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge)
 
 ---
